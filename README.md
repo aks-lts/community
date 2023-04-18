@@ -1,2 +1,2 @@
 # community
-Community information for the LTS Kubernetes fork
+Community information for the AKS LTS Project Kubernetes fork
